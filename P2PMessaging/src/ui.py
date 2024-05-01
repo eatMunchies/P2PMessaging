@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+ui.py
+UI Class that provides a CLI for users to interact with the application. 
+"""
+
 # imports
 from identification import Identification
 from client import Client

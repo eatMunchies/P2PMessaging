@@ -1,4 +1,9 @@
-
+"""
+Anthony Silva
+UNR, CPE 400, S24
+exception.py
+this class is kind of useless. will be deprecated in later versions. 
+"""
 
 class CustomException(Exception):
     """

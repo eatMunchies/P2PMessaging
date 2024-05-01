@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+runner.py
+Entry point for the program
+"""
+
 from ui import UI
 
 def main():

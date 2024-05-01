@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+client.py
+Client class for performing all client related operations, like multiple connection management, history management, and more
+"""
+
 import socket
 import threading
 import logging

@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+live_connection.py
+LiveConnection class for handling conversation message histories and socket object
+"""
+
 from copy import deepcopy
 from datetime import datetime
 

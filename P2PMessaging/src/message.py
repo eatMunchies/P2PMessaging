@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+message.py
+Message class that holds message information. Provides a standard interface for all message types. 
+"""
+
 from datetime import datetime
 import json 
 
@@ -19,7 +26,7 @@ class Message:
         "TEXT_MESSAGE_REQUEST",
         "TEXT_MESSAGE_RESPONSE",
         #
-        "FRIEND_REQUEST",
+        "FRIEND_REQUEST", # friend stuff will be implemented later
         "FRIEND_RESPONSE",
         #
         "END_FRIENDS",
@@ -31,8 +38,8 @@ class Message:
         #
         "ERROR",
         #
-        "PULSECHECK_REQUEST",
-        "PULSECHECK_RESPONSE",
+        "PULSECHECK_REQUEST", # will be removed
+        "PULSECHECK_RESPONSE", # will be removed
     ]
 
     def __init__(

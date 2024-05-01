@@ -1,5 +1,9 @@
-
-
+"""
+Anthony Silva
+UNR, CPE 400, S24
+identification.py
+Identification class used to identify a client based on their self chosen name, id (MAC), ip, and port being used. 
+"""
 
 class Identification:
 

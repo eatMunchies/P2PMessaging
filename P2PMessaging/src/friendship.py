@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+friendship.py
+class that represents a friendship. Currently not implemented. 
+"""
+
 from datetime import datetime
 
 from identification import Identification

@@ -1,3 +1,10 @@
+"""
+Anthony Silva
+UNR, CPE 400, S24
+hash_table.py
+HashTable class which is essentially a python dictionary / json that just stores message histories separate from connections
+"""
+
 import json
 from copy import deepcopy
 
